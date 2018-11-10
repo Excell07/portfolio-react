@@ -1,0 +1,17 @@
+@import './styles/reset';
+@import './styles/index';
+@import './styles/globals/colors';
+@import './styles/globals/font-styles';
+@import './styles/globals/btns';
+@import './styles/globals/rows-and-cols/rows';
+
+@import './styles//components/col-wrap';
+@import './styles/components/cta';
+@import './styles/components/two-col';
+
+@import './styles/components/nav/desktopNav';
+@import './styles/components/nav/mobileNav';
+@import './styles/components/nav/footer';
+@import './styles/components/hero';
+@import './styles/components/primary-two-col';
+@import './styles/components/contact';
