@@ -1,6 +1,3 @@
-# portfolio-react
-Here is the demo
-
 # mern-stack
 MongoDB, Express, React/Redux, Node
 
