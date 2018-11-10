@@ -13,7 +13,7 @@ MongoDB, Express, React/Redux, Node
 ```terminal
 $ cd client
 $ npm i
-$ npm
+$ npm run start
 ```
 ### Server-side usage(PORT: 5000)
 (You need to add a mongolab uri in .env to connect to MongoDB -> make it run -> check your terminal for instructions
@@ -21,7 +21,7 @@ $ npm
 ```terminal
 $ cd server
 $ npm i
-$ npm run dev
+$ npm run server
 ```
 
 ### Deploy Server to [Heroku](https://dashboard.heroku.com/)
