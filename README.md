@@ -14,7 +14,7 @@ MongoDB, Express, React/Redux, Node
 $ cd client
 $ npm i
 $ npm
-
+```
 ### Server-side usage(PORT: 5000)
 (You need to add a mongolab uri in .env to connect to MongoDB -> make it run -> check your terminal for instructions
 )
